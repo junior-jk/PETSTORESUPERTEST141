@@ -1,0 +1,16 @@
+{
+    "id": 294030002,
+    "category": {
+        "id": 1,
+        "name": "dog"
+    },
+    "name": "Marks",
+    "photoUrls": [],
+    "tags": [
+        {
+            "id": 1,
+            "name": "vaccined"
+        }
+    ],
+    "status": "sold"
+}
